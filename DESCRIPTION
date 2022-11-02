@@ -13,5 +13,5 @@ Suggests:
     rmarkdown
 Depends: 
     R (>= 2.10)
-URL: https://github.com/rhettmasters/FinalProject
-BugReports: https://github.com/rhettmasters/FinalProject/issues
+URL: https://github.com/MQ-STAT1378/mq-stat1378-project-2022-rhettmasters.git
+BugReports: https://github.com/MQ-STAT1378/mq-stat1378-project-2022-rhettmasters.git
