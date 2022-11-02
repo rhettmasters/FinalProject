@@ -1,0 +1,29 @@
+---
+title: "Final Project"
+author: 'Rhett Masters'
+subtitle: 'High Distinction Level Attempted'
+output: pdf_document
+bibliography: references.bib
+nocite: '@*'
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(FinalProject)
+```
+
+# [Abstract:]{.underline}
+
+# [Introduction:]{.underline}
+
+# [Methodology:]{.underline}
+
+# [Results:]{.underline}
+
+# [Conclusion:]{.underline}
